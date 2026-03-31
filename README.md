@@ -1,6 +1,10 @@
 # Work Contract Verification Platform
+---
+
 ## Overview
 A centralized platform for creating, verifying, and managing employment contracts digitally. It ensures authenticity, legal compliance, and transparency between employers, employees, and government authorities.
+
+---
 
 ## Core Modules
 ### User & Identity Management
@@ -10,6 +14,8 @@ Authentication (login, registration, password reset)
 Multi-tenant support for companies
 #### Keywords:
  ASP.NET Core Identity, JWT, OAuth2, RBAC, Multi-Tenancy, Refresh Tokens
+
+---
 
 ## Employer Management Module
 Register companies and legal entities
